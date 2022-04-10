@@ -133,6 +133,10 @@ body {
     opacity: .7;
     cursor: pointer;
 }
+.left {
+    tranform: rotate(180deg)
+}
+    
 .left:hover,.right:hover,.left2:hover,.right2:hover{
     opacity: .6;
 }
