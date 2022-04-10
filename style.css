@@ -134,7 +134,7 @@ body {
     cursor: pointer;
 }
 .left, .left2 {
-    tranform: rotate(180deg)
+    transform: rotate(180deg)
 }
     
 .left:hover,.right:hover,.left2:hover,.right2:hover{
